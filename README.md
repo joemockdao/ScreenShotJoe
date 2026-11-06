@@ -60,7 +60,7 @@ You can also let your own AI agent (Claude Code, Codex, Cursor and more) build t
 
 ## ✨ Features
 
-A complete App Store deck, made with ScreenShotJoe for **SleepRec**, a sleep-tracking app by the same developer:
+A complete App Store deck, made with ScreenShotJoe for **[SleepRec](https://apps.apple.com/app/sleeprec/id1528754113)**, a free sleep-tracking app for iPhone by the same developer:
 
 ![App Store screenshots made with ScreenShotJoe](screenshots/deck.png)
 
@@ -106,6 +106,25 @@ shasum -a 256 -c ScreenShotJoe-1.0.dmg.sha256
 ## 💬 Feedback
 
 Found a bug or have an idea? Please open an [issue](https://github.com/joemockdao/ScreenShotJoe/issues).
+
+## 🧩 Other apps by Joe
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/joemockdao/CleanMacJoe"><img src="https://raw.githubusercontent.com/joemockdao/CleanMacJoe/main/screenshots/icon.png" width="64" height="64" alt="CleanMacJoe"><br><b>CleanMacJoe</b></a><br>
+      <sub>Disk cleaner, duplicate finder &amp; app uninstaller for Mac</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/joemockdao/Klipzen"><img src="https://raw.githubusercontent.com/joemockdao/Klipzen/main/screenshots/icon.png" width="64" height="64" alt="Klipzen"><br><b>Klipzen</b></a><br>
+      <sub>Native video editor for Mac</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://apps.apple.com/app/sleeprec/id1528754113"><img src="https://raw.githubusercontent.com/joemockdao/ScreenShotJoe/main/screenshots/sleeprec-icon.png" width="64" height="64" alt="SleepRec"><br><b>SleepRec</b></a><br>
+      <sub>Record and understand your sleep sounds — free for iPhone</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📄 License
 
