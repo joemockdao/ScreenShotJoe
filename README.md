@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="128" height="128" alt="ScreenShotJoe icon"></p>
+
 # ScreenShotJoe
 
 **Store-ready App Store and Google Play screenshots, made on your Mac.**
