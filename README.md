@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/joemockdao/ScreenShotJoe/releases">
-    <img src="https://img.shields.io/github/v/release/joemockdao/ScreenShotJoe?include_prereleases&style=flat-square&color=0066cc&label=Version" alt="Latest Version">
+  <a href="https://github.com/joemockdao/ScreenShotJoe/releases/latest">
+    <img src="https://img.shields.io/github/v/release/joemockdao/ScreenShotJoe?style=flat-square&color=0066cc&label=Version" alt="Latest Version">
   </a>
   <img src="https://img.shields.io/badge/macOS-15.0%2B-brightgreen?style=flat-square&logo=apple" alt="macOS Support">
   <img src="https://img.shields.io/badge/SwiftUI-Native-orange?style=flat-square&logo=swift" alt="Built with SwiftUI">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/joemockdao/ScreenShotJoe/releases">
+  <a href="https://github.com/joemockdao/ScreenShotJoe/releases/latest">
     <img src="https://img.shields.io/badge/Download-Latest_Release-0066cc?style=for-the-badge&logo=apple&logoColor=white" alt="Download ScreenShotJoe">
   </a>
 </p>
@@ -42,9 +42,6 @@ You can also let your own AI agent (Claude Code, Codex, Cursor and more) build t
 
 > [!NOTE]
 > **Free & ad-free:** ScreenShotJoe is a personal, independent project. No subscriptions, no watermarks, no ads, no account required.
-
-> [!IMPORTANT]
-> **Private test build.** This version is being validated before its public release.
 
 <p align="center">
   ⭐ If ScreenShotJoe is useful to you, <a href="https://github.com/joemockdao/ScreenShotJoe/stargazers">starring the repo</a> helps other people find it.
@@ -96,7 +93,7 @@ ScreenShotJoe can be driven by AI agents through a local [MCP](https://modelcont
 
 ## 📦 Install
 
-1. Download `ScreenShotJoe-1.0.dmg` from the [Releases page](https://github.com/joemockdao/ScreenShotJoe/releases).
+1. Download `ScreenShotJoe-1.0.dmg` from the [latest release](https://github.com/joemockdao/ScreenShotJoe/releases/latest).
 2. Open the disk image and drag **ScreenShotJoe** to **Applications**.
 3. Launch it from Applications.
 
