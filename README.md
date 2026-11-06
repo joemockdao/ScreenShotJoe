@@ -38,6 +38,8 @@ ScreenShotJoe turns raw screenshots of your app into polished store images: devi
 
 You can also let your own AI agent (Claude Code, Codex, Cursor and more) build the deck for you, and watch every change happen live in the app. [Learn more ↓](#-work-with-your-ai-agent)
 
+![ScreenShotJoe editor](screenshots/editor.png)
+
 > [!NOTE]
 > **Free & ad-free:** ScreenShotJoe is a personal, independent project. No subscriptions, no watermarks, no ads, no account required.
 
@@ -61,12 +63,20 @@ You can also let your own AI agent (Claude Code, Codex, Cursor and more) build t
 
 ## ✨ Features
 
+A complete App Store deck, made with ScreenShotJoe for **SleepRec**, a sleep-tracking app by the same developer:
+
+![App Store screenshots made with ScreenShotJoe](screenshots/deck.png)
+
 * **Device mockups** for iPhone 17 / 17 Pro Max / 16 / 15, iPhone Duo, iPad, Pixel 8 Pro, generic Android phones and tablets, MacBook and Windows PC, in realistic, clay or minimal style, with optional 3D tilt.
 * **Backgrounds**: solid, linear or radial gradient, split color or image, with overlays and decorative patterns.
 * **Headlines and subtitles** with automatic line wrapping, a free-position text block, a bubble card and other text effects.
 * **Extras**: floating trust badges and rating cards, a hero feature list, and a magnified detail of the screenshot.
 * **Multi-device layouts**: single, dual or triple devices in one image, and panoramic sets that span several screenshots.
 * **12 content languages** (English, Italian, German, French, Spanish, Portuguese, Japanese, Korean, Chinese, Arabic, Greek, Russian), each with its own texts and, optionally, its own screenshots, plus on-device translation.
+One deck, every language — headlines and localized screenshots for each market:
+
+![The same screenshot in English, Italian, German and Chinese](screenshots/languages.png)
+
 * **Exact export sizes** for the App Store (iPhone, iPad, Mac, Apple TV, Apple Vision Pro, Apple Watch) and Google Play, as PNG, JPEG or ZIP. A `fastlane` folder layout is available for automated uploads.
 * **Store readiness check** that flags missing sizes, wrapping problems, low contrast and untranslated copy before you export.
 * **Store listing text** (name, subtitle, keywords, description and more) per language, saved with the project.
