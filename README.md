@@ -4,7 +4,7 @@
 
 ScreenShotJoe turns raw screenshots of your app into polished store images: device mockups, backgrounds and headlines, exported at the exact pixel sizes each store requires, in every language you ship.
 
-> **Status:** private test build. The app inside version 1.0 is still named *ScreenAppJoe*; it will be renamed in a later build.
+> **Status:** private test build.
 
 ## Features
 
@@ -34,8 +34,8 @@ ScreenShotJoe can be driven by AI coding agents through a local [MCP](https://mo
 
 ## Install
 
-1. Download `ScreenAppJoe-1.0.dmg` from the [latest release](../../releases/latest).
-2. Open the disk image and drag the app to **Applications**.
+1. Download `ScreenShotJoe-1.0.dmg` from the [latest release](../../releases/latest).
+2. Open the disk image and drag **ScreenShotJoe** to **Applications**.
 3. Launch it from Applications.
 
 The app is signed with an Apple Developer ID and notarized by Apple, so macOS opens it without warnings.
@@ -43,7 +43,7 @@ The app is signed with an Apple Developer ID and notarized by Apple, so macOS op
 ### Verify the download (optional)
 
 ```bash
-shasum -a 256 -c ScreenAppJoe-1.0.dmg.sha256
+shasum -a 256 -c ScreenShotJoe-1.0.dmg.sha256
 ```
 
 ## Privacy
