@@ -34,7 +34,7 @@ ScreenShotJoe can be driven by AI coding agents through a local [MCP](https://mo
 
 ## Install
 
-1. Download `ScreenShotJoe-1.0.dmg` from the [latest release](../../releases/latest).
+1. Download `ScreenShotJoe-1.0.dmg` from the [Releases page](../../releases).
 2. Open the disk image and drag **ScreenShotJoe** to **Applications**.
 3. Launch it from Applications.
 
